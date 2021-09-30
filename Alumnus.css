@@ -1,0 +1,520 @@
+
+
+.navbar{
+	margin-top: 10px;
+	background: #dedcdc;
+}
+
+.welcome{
+	font-size: 40px;
+	margin-top: 20px;
+	margin-left: 10%;
+	text-decoration: none;
+	color: black;
+}
+
+.d-flex{
+	margin-right: 10%;
+	font-size: 12px;
+}
+
+.d-flex>input{
+	padding-left: 20px;
+	width: 15vw;
+	height: 5vh;
+	border: none;
+	color: gray;
+}
+
+.d-flex>button{
+	border: none;
+	width: 5vw;
+	background-color: #424241;
+	color: white;
+}
+
+.btn-group{
+	margin-left: 11%;
+}
+
+.btn-group>a{
+	background-color: #424241;
+	color: white;
+	font-size: 12px;
+	padding: 15px 25px 15px 25px;
+	border: 1px solid black;
+	border-radius: 0;
+}
+
+.btn-group>a:hover{
+	background-color: #fa5757;
+	color: white;	
+}
+
+.btn-group>.active{
+	background-color: #fa5757;
+	border: 1px solid #fa5757;
+	color: white;	
+}
+
+.btn-group>.fa{
+	font-size: 18px;
+}
+
+.blankSpan{
+	width: 6.6vw;
+	background-color: #424241;
+}
+
+.blankDiv{
+	background: #dedcdc;
+}
+
+.backgroundImg{
+	background-image: url("wallpapersden.com_moscow-city-at-night_1920x1080 (1).jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 60vh;
+}
+
+.carousel-item>h1{
+	color: white;
+	text-align: center;
+	margin-top: 100px;
+	font-size: 40px;
+}
+
+.carousel-item>p{
+	color: white;
+	text-align: center;
+}
+
+.carousel-item>a{
+	font-size: 12px;
+	padding: 5px 15px 5px 15px;
+	border: 1px solid #fa5757;
+	border-radius: 0;
+	margin-left: 46%;
+	margin-top: 10px;
+}
+
+.carousel-item>a:hover{
+	background-color: #fa5757;
+	color:white;
+}
+
+.row1>div>span{
+	font-size: 50px;
+}
+
+.row1{
+	text-align: center;
+}
+
+.row1>div>p{
+	font-size: 30px;
+	margin-top: 50px;
+}
+
+.row1>div>i{
+	font-size: 14px;
+	position: relative;
+	top: -10px;
+}
+
+.row>div>a{
+	font-size: 12px;
+	padding: 10px 25px 10px 25px;
+	border: 2px solid #fa5757;
+	border-radius: 0;
+	margin-top: 5px;
+}
+
+.row>div>a:hover{
+	background-color: #fa5757;
+	color: white;
+}
+
+.bottomDiv{
+	background-color: #dedcdc;
+	padding-top: 80px;
+}
+
+.row2>div>img{
+	width: 100%;
+}
+
+.row2{
+	margin-top: 100px;
+}
+
+.row2>div>p{
+	font-size: 25px;
+	margin-top: 30px;
+}
+
+.row2>div>p>span{
+	color: #fa5757;
+}
+
+.row2>div>i{
+	font-size: 14px;
+}
+
+.row3>div>p{
+	font-size: 25px;
+	margin-top: 20px;
+}
+
+.row3>div>span{
+	font-size: 12px;
+}
+
+.row3>div{
+	background-color: white;
+	margin-left: 10px;
+	margin-top: 80px;
+	text-align: center;
+	padding-bottom: 5px;
+	cursor: pointer;
+}
+
+.row3>div>p:hover{
+	color: #fa5757;
+}
+
+.row3{
+	padding-bottom: 100px;
+}
+
+.footer{
+	background-color: #f2f2f2;
+	height: 15vh;
+	display: grid;
+	justify-content: center;
+	align-items: center;
+	padding-top: 10px;
+}
+
+#nav{
+	background-image: url("wallpapersden.com_moscow-city-at-night_1920x1080 (1).jpg");
+	padding-bottom: 0;
+}
+
+#btnGroup2{
+	margin-top: 20px;
+}
+
+#alumniTech{
+	color: white;
+}
+
+.blankSpan2{
+	width: 17vw;
+	background-color: #424241;
+}
+
+.row4>div>p{
+	font-size: 35px;
+}
+
+.row4>div>span{
+	font-size: 12px;
+}
+
+.row4>div>a{
+	margin-top: 70px;
+	margin-bottom: 20px;
+}
+
+.page-item>a{
+	background-color: #424241;
+	color: white;
+	font-size: 12px;
+	border: 0px;
+	border: 1px solid #424241;
+}
+
+.row4>div>i{
+	font-size: 50px;
+	margin-top: 110px;
+	margin-left: 30%;
+}
+
+.page-item>a:hover{
+	background-color: #fa5757;
+	color: white;
+	border: 1px solid #424241;
+}
+
+.alert{
+	background-color: white;
+	border: none;
+	color: black;
+}
+
+.body{
+	background: #dedcdc;	
+}
+
+.footer2{
+	padding-top: 30px;
+	margin-top: 60px;
+}
+
+.footer2>p>a{
+	color: #fa5757;
+}
+
+.footer2>p>a:hover{
+	color: #424241;	
+}
+
+.btn-outline-success:hover{
+	background-color: #fa5757;
+}
+
+.row5>div>p{
+	margin-top: -60px;
+}
+
+.row5>div>a{
+	margin-top: 20px;
+}
+
+.container2{
+	margin-top: -20px;
+}
+
+.container2>div>div>span{
+	position: relative;
+	top: 20px;
+}
+
+.container2>div>div>a{
+	position: relative;
+	top: -20px;
+}
+
+.p2{
+	position: relative;
+	top: -50px;
+}
+
+.icons2{
+	position: relative;
+	top: -40px;
+	font-size: 12px;
+	color: gray;
+}
+
+.icons{
+	margin-top: 10px;
+	font-size: 12px; 
+	color: gray;
+}
+
+.icons>span,.icons2>span{
+	margin-left: 8px;
+}
+
+.bottomSpan{
+	position: relative;
+	top: -80px;
+	font-size: 12px;
+	color: black;
+}
+
+.bottomSpan{
+	font-size: 12px;
+}
+
+.btn2{
+	position: relative;
+	top: -250px;
+}
+
+.secondGroup>button{
+	width: 5vw;
+	height: 10vh;
+	text-align: center;
+	border: none;
+	padding: 5px;
+	font-size: 12px;
+	border: 0px;
+}
+
+.secondGroup>button>i{
+	border-radius: 50%;
+	border: 1px solid white;
+	padding: 5px;
+	font-size: 25px;
+}
+
+.secondGroup>button>span{
+	font-size: 25px;
+}
+
+.secondGroup>border{
+	border-bottom: 1px solid white;
+}
+
+.first{
+	background-color: #29f0e2;
+}
+
+.second{
+	background-color: #2e49b8;
+}
+
+.third{
+	background-color: #2eb092;
+}
+
+.fourth{
+	background-color: #f2338f;
+}
+
+.first:hover{
+	background-color: #22d6ca;
+}
+
+.second:hover{
+	background-color: #253da1;
+}
+
+.third:hover{
+	background-color: #269e82;
+}
+
+.fourth:hover{
+	background-color: #d9297e;
+}
+
+.col1{
+	margin-left: 5%;
+}
+
+.col2{
+	margin-left: -10%;
+}
+
+.col1>div{
+	background-color: #fafafa;
+	width: 10vw;
+	height: 22vh;
+}
+
+.col2>div{
+	background-color: #fafafa;
+	width: 10vw;
+	height: 22vh;
+}
+
+.blankDiv,.blankDiv2{
+	margin-top: 6%;
+}
+
+.ads{
+	margin-left: 10%;
+}
+
+.col1>div:hover{
+	background-color: #f2f2f2;
+}
+
+.col2>div:hover{
+	background-color: #f2f2f2;
+}
+
+.buttons>a{
+	background-color: #424241;
+	color: white;
+	border: 0px;
+	font-size: 12px;
+	padding: 10px 25px 10px 25px;
+	margin-left: 2%;
+	margin-top: 2%;
+}
+
+.buttons>.active{
+	background-color: #fa5757;
+	color: white;	
+}
+
+.buttons>a:hover{
+	background-color: #fa5757;
+	color: white;
+}
+
+.buttons{
+	margin-left: 10%;
+	width: 20vw;
+}
+
+.tag{
+	margin-left: 10%;
+}
+
+.input2{
+	border: none;
+	font-size: 12px;
+	padding: 10px;
+	margin-left: 10%;
+	width: 20vw;
+}
+
+.btn3{
+	margin-left: 45%;
+	width: 10vw;
+}
+
+iframe{
+	width: 80%;
+	margin-left: 10%;
+	margin-top: 3%;
+	height: 50vh;
+}
+
+.row6{
+	margin-top: 80px;
+	border-top: 1px solid gray;
+	padding-top: 50px;
+}
+
+.row6>div{
+	margin-left: 2%;
+}
+
+.row6>div>p{
+	font-size: 14px;
+}
+
+.row6>div>.address{
+	font-size: 30px;
+}
+
+.row6>div>p>span{
+	color: #fa5757;
+}
+
+.row6>div>input{
+	width: 100%;
+	border: none;
+	padding: 5px;
+	margin-top: -5px;
+}
+
+.email{
+	margin-top: 15px
+}
+
+.text{
+	height: 20vh;
+}
+
+.row6>div>a{
+	margin-top: 20px;
+	width: 10vw;
+	border-radius: 3px;
+}
